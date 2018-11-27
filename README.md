@@ -10,10 +10,10 @@ Los contenidos son los siguientes:
 
 - `datos_peces_rc.csv`: Mismos datos que antes, pero con la columna `RC` modificada para evaluar ambas reservas y controles al mismo tiempo.
 
-# Datos socioeconómicos
+## Datos socioeconómicos
 
 - `datos_socioeco.csv`: Contienen información de arribos y valores de 3 especies pescadas en la comunidad.
 
-# Datos de gobernanza
+## Datos de gobernanza
 
 - `datos_gobernanza.csv`: Datos simulados de una encuesta estandarizada.
