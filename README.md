@@ -1,5 +1,7 @@
 # Datos para el curso de MAREA
 
+https://github.com/jcvdav/curso_marea_datos
+
 Los contenidos son los siguientes:
 
 ## Datos biológicos
@@ -17,6 +19,7 @@ Los contenidos son los siguientes:
 ## Datos socioeconómicos
 
 - `datos_socioeco.csv`: Contienen información de arribos y valores de 3 especies pescadas en la comunidad.
+
 - `datos_socioeco.csv`: Información de arribos y valores para Isla Natividad
 
 ## Datos de gobernanza
