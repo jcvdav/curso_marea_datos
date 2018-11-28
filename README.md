@@ -10,9 +10,14 @@ Los contenidos son los siguientes:
 
 - `datos_peces_rc.csv`: Mismos datos que antes, pero con la columna `RC` modificada para evaluar ambas reservas y controles al mismo tiempo.
 
+- `datos_peces_abnt.csv`: Mismo que antes, pero con columnas para a, b, NT y Lm
+
+- `datos_peces2.csv`: Información de peces Natividad
+
 ## Datos socioeconómicos
 
 - `datos_socioeco.csv`: Contienen información de arribos y valores de 3 especies pescadas en la comunidad.
+- `datos_socioeco.csv`: Información de arribos y valores para Isla Natividad
 
 ## Datos de gobernanza
 
