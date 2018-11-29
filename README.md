@@ -1,6 +1,12 @@
 # Datos para el curso de MAREA
 
-https://github.com/jcvdav/curso_marea_datos
+- [Link](https://jcvdav.github.io/curso_marea/) al manual del curso
+
+- [Artículo científico de MAREA](https://www.researchgate.net/publication/322814727_A_user-friendly_tool_to_evaluate_the_effectiveness_of_no-take_marine_reserves)
+
+- [Link](https://www.researchgate.net/publication/317840836_Una_guia_para_evaluar_la_efectividad_de_las_zonas_de_no_pesca_en_Mexico) al manual de marea
+
+- [Link](https://www.youtube.com/watch?v=1t1rNUn218A) al webinar de [EBM Tools](http://www.natureserve.org/conservation-tools/ebm-tools-network/webinars-and-chats)
 
 Los contenidos son los siguientes:
 
